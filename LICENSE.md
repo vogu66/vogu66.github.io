@@ -1,4 +1,4 @@
-MIT License -- modified
+MIT License -- modified -- Github's Terms of Service prime over this licence
 
 Copyright (c) 2019 vogu66
 
