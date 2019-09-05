@@ -4,13 +4,14 @@
 <head>
 	<meta charset="utf-8"/>
 	<title>{{page.title}}</title>
-	<link rel="stylesheet" type="text/css" href="main-style.css">
-	<script src="main-script.js">  </script>
+	<link rel="stylesheet" href="/assets/css/main.css">
 </head>
 
 <body>
-
+	{% include navigation.html %}
+	<h1>{{page.title}}</h1>
 	{{ content }}
+	{% include footer.html %}
 
 </body>
 </html>

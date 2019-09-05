@@ -1,0 +1,8 @@
+- name: Home
+  link: ./index.html
+- name: My projects
+  link: ./projects.html
+- name: Contact me
+  link: ./contact.html
+- name: The site is broken
+  link: ./contribute.html
