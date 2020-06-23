@@ -4,7 +4,7 @@
   link: ./projects.html
 - name: Contact me
   link: ./contact.html
-- name: The site is broken
+- name: The site is broken ?
   link: ./contribute.html
 - name: Thanks
   link: ./thanks.html

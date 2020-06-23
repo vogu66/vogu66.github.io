@@ -1,1 +1,1 @@
-exclude: ["LICENSE.md", "README.md", "TODO.md"]
+exclude: ["LICENSE.md", "README.md", "TODO.md","COMPILE.md"]
