@@ -7,14 +7,14 @@ paragraphs are the original version of the MIT licence, and anything said in the
 current paragraph primes over the rest of the licence. If a point is not cited
 in the current paragraph, the rest of the license applies. The fact that this
 license refers to a website means there are 3 different part in the source code :
-the "code" (anything directly related to the use use of html, css, js, or anything
-similar), the design (the way the site looks) and the content (anything that isn't
+the "code" (anything directly related to the use of html, css, js and so on), 
+the design (the way the site looks) and the content (anything that isn't
 code, basically hard-coded data). The content and the design of the website may 
-not be copied. The content can be referenced or cited. As for the software as 
-described later, copying it in its entirety would both copy the content and the
-design. Thus, the definition of Software is overruled in this paragraph as any
+not be copied. Anything can be referenced or cited. As for the software as it
+is described later, copying it in its entirety would both copy the content and 
+the design. Thus, the definition of Software is overruled in this paragraph as any
 non-trivial portion of the code used in the website, if there is any. In case of
-grey area in the definitions, please contact the developper.
+grey area in the definitions, please contact the developer.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
